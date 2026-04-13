@@ -1,6 +1,5 @@
 # 忽略不必要的文件
 node_modules/
-dist/
 博弈论.pptx
 漫士视频稿子.docx
 *.zip
