@@ -425,6 +425,9 @@ function App() {
           </div>
         </div>
       </div>
+      <div style={{ textAlign: 'center', fontSize: '12px', color: '#9ca3af', marginTop: '20px', paddingBottom: '20px' }}>
+        2026《身边的博弈论》第一组
+      </div>
     </div>
   );
 }
